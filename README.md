@@ -1,4 +1,4 @@
-### Hello, I'm Jonathan,  👋
+### Hello, Welcome to my GitHub page!👋
 
 - 🔭 I’m currently a Sophomore student studying Computer Science at NTU 
 - 🌱 I’m currently learning: C#, MySQL
