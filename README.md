@@ -1,8 +1,8 @@
 ### Hello, Welcome to my GitHub page!👋
 
 - 🔭 I’m currently a Sophomore student studying Computer Science at NTU 
-- 🌱 I’m currently learning: C#, MySQL
-- 🤔 Languages: Java, C, C++, Python
+- 🌱 A Machine Learning enthusiast!
+- 🤔 Languages: Python, Java, C, C++, MySQL
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to play bridge!
 
